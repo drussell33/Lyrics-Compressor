@@ -1,0 +1,1 @@
+Basic compressor that will take in a text file, then uses a hash map to compress the file and output the result. Using the commandline to prompt the user for the source of the text file.
